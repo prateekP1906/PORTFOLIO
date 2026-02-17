@@ -16,7 +16,7 @@ export default function Projects() {
                         <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-foreground">Projects</h1>
                     </div>
                     <p className="text-lg text-foreground/80 leading-relaxed">
-                        I&apos;m a paragraph. Click here to add your own text and edit me. It&apos;s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.
+
                     </p>
                 </div>
 

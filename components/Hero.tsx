@@ -83,7 +83,7 @@ export default function Hero() {
                             {portfolioData.personal.summary}
                         </p>
                         <p>
-                            I&apos;m a paragraph. Click here to add your own text and edit me. It&apos;s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.
+
                         </p>
                     </div>
                 </div>
