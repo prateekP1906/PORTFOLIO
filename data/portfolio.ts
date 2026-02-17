@@ -5,7 +5,7 @@ export const portfolioData = {
         email: "prateekpatel1906@gmail.com",
         contact: "+91 93022 18590",
         linkedin: "https://www.linkedin.com/in/prateek53/",
-        github: "https://github.com/prateek53", // Assuming based on profile link
+        github: "https://github.com/prateekP1906",
         portfolio: "https://p-folio-main.vercel.app/",
         location: "Jabalpur, Madhya Pradesh, India",
         summary:
