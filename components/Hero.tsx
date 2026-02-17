@@ -82,9 +82,6 @@ export default function Hero() {
                         <p>
                             {portfolioData.personal.summary}
                         </p>
-                        <p>
-
-                        </p>
                     </div>
                 </div>
             </div>

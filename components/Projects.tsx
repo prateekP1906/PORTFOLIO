@@ -15,9 +15,6 @@ export default function Projects() {
                         <div className="w-5 h-5 bg-primary" />
                         <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-foreground">Projects</h1>
                     </div>
-                    <p className="text-lg text-foreground/80 leading-relaxed">
-
-                    </p>
                 </div>
 
                 <div className="space-y-16">
