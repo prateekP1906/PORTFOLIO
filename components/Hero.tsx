@@ -41,15 +41,11 @@ export default function Hero() {
                         <Link href={portfolioData.personal.linkedin} target="_blank" className="text-black hover:text-[#0055FF] transition-colors">
                             <Linkedin size={20} />
                         </Link>
-                        <Link href={portfolioData.personal.github} target="_blank" className="text-black hover:text-[#0055FF] transition-colors">
+                        <Link href="https://github.com/prateekP1906" target="_blank" className="text-black hover:text-[#0055FF] transition-colors">
                             <Github size={20} />
                         </Link>
-                        <Link href={`mailto:${portfolioData.personal.email}`} className="text-black hover:text-[#0055FF] transition-colors">
+                        <Link href="prateekpatel1906@gmail.com" className="text-black hover:text-[#0055FF] transition-colors">
                             <Mail size={20} />
-                        </Link>
-                        {/* Added a 4th icon as per 'social icons' request, using Twitter as placeholder */}
-                        <Link href="#" className="text-black hover:text-[#0055FF] transition-colors">
-                            <Twitter size={20} />
                         </Link>
                     </div>
                 </div>
