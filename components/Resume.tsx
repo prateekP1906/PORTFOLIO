@@ -75,7 +75,7 @@ export default function Resume() {
 
                 {/* Download Button Row */}
                 <div className="flex justify-end mb-12">
-                    <a href="/resume.pdf" download="Prateek_Patel_Resume.pdf">
+                    <a href="/My-resume.pdf" download="My-resudzme.pdf">
                         <button className="bg-[#0055FF] text-white rounded-full px-8 py-3 text-sm font-bold tracking-wider hover:bg-blue-700 transition-colors shadow-lg">
                             DOWNLOAD CV
                         </button>
